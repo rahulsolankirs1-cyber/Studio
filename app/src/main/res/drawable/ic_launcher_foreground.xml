@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Body -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M24,34 C24,30.7 26.7,28 30,28 L40,28 L44,22 L64,22 L68,28 L78,28 C81.3,28 84,30.7 84,34 L84,72 C84,75.3 81.3,78 78,78 L30,78 C26.7,78 24,75.3 24,72 Z" />
+    <!-- Lens Outer Ring -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,34 A18,18 0 1,0 54,70 A18,18 0 1,0 54,34 Z" />
+    <!-- Lens Inner Aperture Highlight -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,40 A12,12 0 1,0 54,64 A12,12 0 1,0 54,40 Z" />
+    <!-- Center Pupil -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,46 A6,6 0 1,0 54,58 A6,6 0 1,0 54,46 Z" />
+    <!-- Flash/Focus Lamp -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,34 A3,3 0 1,0 73,40 A3,3 0 1,0 73,34 Z" />
+    <!-- Video Indicator / Reel Accent -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M30,34 L38,34 L38,36 L30,36 Z M30,39 L35,39 L35,41 L30,41 Z" />
+</vector>

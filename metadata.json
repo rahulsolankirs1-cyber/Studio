@@ -1,0 +1,6 @@
+{
+  "name": "TracStudio",
+  "description": "Professional Photography & Videography Studio Management System with multi-day bookings, itemized quotations, GST invoicing, client ledger, and Google Drive auto-backup",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
